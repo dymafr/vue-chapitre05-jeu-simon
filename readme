@@ -1,0 +1,5 @@
+Pour lancer l'application il faut d'abord installer les dépendances en faisant
+
+npm install
+
+puis ouvrir le fichier index.html dans un navigateur
